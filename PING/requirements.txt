@@ -1,3 +1,0 @@
-Flask>=3.0,<4.0
-libsql>=0.1.11; python_version < '3.13'
-gunicorn>=21.2,<27
